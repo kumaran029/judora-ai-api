@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+catboost
+pandas
+numpy
+requests
